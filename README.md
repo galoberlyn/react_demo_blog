@@ -23,6 +23,10 @@ For app:
 ```
 
 For service
+- in postgres, create a database named pushshift
+- edit the config/config.json file in pushshift_gateway
+
+Installing
 ```bash
   cd pushshift_gateway
   yarn
