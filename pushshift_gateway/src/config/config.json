@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "galoberlyn",
+    "password": null,
+    "database": "pushshift",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "galoberlyn",
+    "password": null,
+    "database": "pushshift",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "galoberlyn",
+    "password": null,
+    "database": "pushshift",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
